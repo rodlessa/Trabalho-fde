@@ -1,2 +1,0 @@
-*Teste
-Test 3
